@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Avi",
+    "age": 23,
+    "email": "avi@g.com",
+    "country": "Bangladesh",
+    "address": "dhaka"
+    
+}
